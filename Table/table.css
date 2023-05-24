@@ -1,0 +1,16 @@
+table{
+    width: 80%;
+    border-collapse: collapse;
+}
+
+tr{
+    height: 50px;
+}
+
+table, th, td{
+    border: 2px solid red;
+}
+
+tr:hover{
+    background-color: #cd848f;
+}
