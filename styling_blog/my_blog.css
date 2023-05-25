@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: #FF6A6A;
+}
+
+#pen{
+    color:#FFB84B;
+}
+
+img{
+    width: 100px;
+}
+
+li{
+    list-style-image: url(listitem-1.png);
+}
+
+#sum{
+    color: #0080FF;
+}
